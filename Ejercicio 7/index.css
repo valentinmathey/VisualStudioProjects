@@ -1,0 +1,14 @@
+body{
+    background-color: lightskyblue;
+}
+h1 and h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    color: white;
+    text-align: center;
+}
+.logo{
+    width: 100PX;
+    height: 100PX;
+}
