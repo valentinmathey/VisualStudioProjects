@@ -1,0 +1,56 @@
+body{
+    background-color: white;
+}
+h1{
+    color: darkcyan;
+}
+p strong{
+    color: red;
+}
+.destacado{
+    color: rgb(240, 176, 0);
+}
+h2{
+    color: blue;
+}
+p a{
+    color: red;
+}
+p em{
+    color: blue;
+}
+p .especial{
+    color: rgb(158, 0, 158);
+}
+p #especial{
+    color: rgb(250, 30, 184);
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 40px;
+}
+thead{
+    color: rgb(240, 176, 0);
+}
+tfoot{
+    color: red;
+}
+tbody .especial{
+    color: rgb(240, 176, 0);
+}
+tbody th{
+    color: red;
+}
+tbody td{
+    color: green;
+}
+tbody td strong{
+    color: rgb(240, 176, 0);
+}
+div p a{
+    color: green;
+}
+div p {
+    color: olive;
+}
